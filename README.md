@@ -8,16 +8,20 @@ Se realizo una conexion para enviar datos a un bucket s3 con la intencion de cre
 
 ##  Proceso ARDUINO(ky-015,ky-004,ky-027) -> PYTHON(.JSON) -> AWS BUCKET S3
 
-## Arduino
+## Circuito
 KY-015 → Sensor de temperatura y humedad
 
 KY-004 → Botón ON/OFF
 
 KY-027 → Indicador visual
 
+![Circuito](https://github.com/user-attachments/assets/3190886b-9eaf-4ec4-8efb-1c916e589048)
+
+
 
 
 ## BUCKET S3 
+<img width="1897" height="676" alt="BUCKET-S3" src="https://github.com/user-attachments/assets/300df284-a022-4729-92a7-85906fe1394d" />
 
 
 ## Video del funcionamiento 
