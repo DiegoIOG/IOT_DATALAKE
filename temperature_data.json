@@ -1,0 +1,18 @@
+[
+  {
+    "timestamp": "2026-02-28T11:54:32.408017",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":25.90,\"hum\":59.30}"
+  },
+  {
+    "timestamp": "2026-02-28T11:54:35.410855",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":25.90,\"hum\":59.30}"
+  },
+  {
+    "timestamp": "2026-02-28T11:54:38.413879",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":25.90,\"hum\":59.30}"
+  },
+  {
+    "timestamp": "2026-02-28T11:54:41.416693",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":25.90,\"hum\":59.30}"
+  }
+]

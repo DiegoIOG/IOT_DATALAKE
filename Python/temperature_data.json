@@ -6858,5 +6858,365 @@
   {
     "timestamp": "2026-02-27T16:28:43.273975",
     "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":30.00,\"hum\":47.20}"
+  },
+  {
+    "timestamp": "2026-02-28T11:55:17.205928",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":25.90,\"hum\":59.20}"
+  },
+  {
+    "timestamp": "2026-02-28T11:55:20.238924",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":25.90,\"hum\":59.20}"
+  },
+  {
+    "timestamp": "2026-02-28T11:55:23.255545",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":25.90,\"hum\":59.20}"
+  },
+  {
+    "timestamp": "2026-02-28T11:55:26.272065",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":25.90,\"hum\":59.20}"
+  },
+  {
+    "timestamp": "2026-02-28T11:58:11.827307",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":59.20}"
+  },
+  {
+    "timestamp": "2026-02-28T11:58:14.852586",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":59.00}"
+  },
+  {
+    "timestamp": "2026-02-28T11:58:17.977688",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":58.90}"
+  },
+  {
+    "timestamp": "2026-02-28T11:58:21.003263",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":58.70}"
+  },
+  {
+    "timestamp": "2026-02-28T11:58:22.029674",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"OFF\"}"
+  },
+  {
+    "timestamp": "2026-02-28T11:58:31.060002",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":58.70}"
+  },
+  {
+    "timestamp": "2026-02-28T11:58:34.086739",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":59.00}"
+  },
+  {
+    "timestamp": "2026-02-28T11:58:37.113362",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":58.90}"
+  },
+  {
+    "timestamp": "2026-02-28T11:58:40.129785",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":58.90}"
+  },
+  {
+    "timestamp": "2026-02-28T11:58:43.145384",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":58.90}"
+  },
+  {
+    "timestamp": "2026-02-28T11:58:46.160956",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":58.70}"
+  },
+  {
+    "timestamp": "2026-02-28T11:58:49.176291",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":58.70}"
+  },
+  {
+    "timestamp": "2026-02-28T11:58:52.192071",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":58.60}"
+  },
+  {
+    "timestamp": "2026-02-28T11:58:55.208583",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":58.60}"
+  },
+  {
+    "timestamp": "2026-02-28T11:58:58.223795",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":58.50}"
+  },
+  {
+    "timestamp": "2026-02-28T11:59:01.248117",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":58.40}"
+  },
+  {
+    "timestamp": "2026-02-28T11:59:04.272921",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":58.40}"
+  },
+  {
+    "timestamp": "2026-02-28T11:59:07.300161",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":58.30}"
+  },
+  {
+    "timestamp": "2026-02-28T11:59:10.240383",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":58.30}"
+  },
+  {
+    "timestamp": "2026-02-28T11:59:13.257156",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":58.20}"
+  },
+  {
+    "timestamp": "2026-02-28T11:59:16.289090",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":58.20}"
+  },
+  {
+    "timestamp": "2026-02-28T11:59:19.314748",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":58.10}"
+  },
+  {
+    "timestamp": "2026-02-28T11:59:22.343100",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":58.00}"
+  },
+  {
+    "timestamp": "2026-02-28T11:59:25.374545",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":58.00}"
+  },
+  {
+    "timestamp": "2026-02-28T11:59:28.410771",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":57.90}"
+  },
+  {
+    "timestamp": "2026-02-28T11:59:31.436456",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":57.90}"
+  },
+  {
+    "timestamp": "2026-02-28T11:59:34.462245",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":57.80}"
+  },
+  {
+    "timestamp": "2026-02-28T11:59:37.490793",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":57.80}"
+  },
+  {
+    "timestamp": "2026-02-28T11:59:40.520362",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":57.80}"
+  },
+  {
+    "timestamp": "2026-02-28T11:59:43.544831",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":57.80}"
+  },
+  {
+    "timestamp": "2026-02-28T11:59:46.564118",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":57.70}"
+  },
+  {
+    "timestamp": "2026-02-28T11:59:49.579565",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":57.70}"
+  },
+  {
+    "timestamp": "2026-02-28T11:59:52.604719",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":57.70}"
+  },
+  {
+    "timestamp": "2026-02-28T11:59:55.629451",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":57.70}"
+  },
+  {
+    "timestamp": "2026-02-28T11:59:57.720487",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":57.70}"
+  },
+  {
+    "timestamp": "2026-02-28T12:00:00.746095",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":57.70}"
+  },
+  {
+    "timestamp": "2026-02-28T12:00:03.778806",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.30,\"hum\":57.70}"
+  },
+  {
+    "timestamp": "2026-02-28T12:00:06.808138",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":57.80}"
+  },
+  {
+    "timestamp": "2026-02-28T12:00:10.658803",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":57.80}"
+  },
+  {
+    "timestamp": "2026-02-28T12:00:13.676538",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":57.80}"
+  },
+  {
+    "timestamp": "2026-02-28T12:00:16.705008",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":57.70}"
+  },
+  {
+    "timestamp": "2026-02-28T12:00:19.732419",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":57.70}"
+  },
+  {
+    "timestamp": "2026-02-28T12:00:22.760705",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":57.70}"
+  },
+  {
+    "timestamp": "2026-02-28T12:00:25.788192",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":57.90}"
+  },
+  {
+    "timestamp": "2026-02-28T12:00:27.877043",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.30,\"hum\":58.10}"
+  },
+  {
+    "timestamp": "2026-02-28T12:00:30.910124",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":58.20}"
+  },
+  {
+    "timestamp": "2026-02-28T12:00:33.943322",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":58.30}"
+  },
+  {
+    "timestamp": "2026-02-28T12:00:36.978653",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":58.30}"
+  },
+  {
+    "timestamp": "2026-02-28T12:00:40.019534",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":58.30}"
+  },
+  {
+    "timestamp": "2026-02-28T12:00:43.068549",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":58.20}"
+  },
+  {
+    "timestamp": "2026-02-28T12:00:46.097986",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.30,\"hum\":58.10}"
+  },
+  {
+    "timestamp": "2026-02-28T12:00:49.126584",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":58.00}"
+  },
+  {
+    "timestamp": "2026-02-28T12:00:52.151931",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":57.90}"
+  },
+  {
+    "timestamp": "2026-02-28T12:00:55.176172",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.30,\"hum\":57.90}"
+  },
+  {
+    "timestamp": "2026-02-28T12:00:58.200716",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":58.10}"
+  },
+  {
+    "timestamp": "2026-02-28T12:01:01.226681",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":58.30}"
+  },
+  {
+    "timestamp": "2026-02-28T12:01:04.255802",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":58.30}"
+  },
+  {
+    "timestamp": "2026-02-28T12:01:07.280836",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":58.20}"
+  },
+  {
+    "timestamp": "2026-02-28T12:01:10.314196",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":58.10}"
+  },
+  {
+    "timestamp": "2026-02-28T12:01:13.146824",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":58.10}"
+  },
+  {
+    "timestamp": "2026-02-28T12:01:16.164174",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":58.00}"
+  },
+  {
+    "timestamp": "2026-02-28T12:01:19.190374",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":58.00}"
+  },
+  {
+    "timestamp": "2026-02-28T12:01:22.219024",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":57.90}"
+  },
+  {
+    "timestamp": "2026-02-28T12:01:25.246948",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":57.90}"
+  },
+  {
+    "timestamp": "2026-02-28T12:01:28.273166",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":57.80}"
+  },
+  {
+    "timestamp": "2026-02-28T12:01:31.300601",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":57.80}"
+  },
+  {
+    "timestamp": "2026-02-28T12:01:34.328453",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":57.70}"
+  },
+  {
+    "timestamp": "2026-02-28T12:01:37.366159",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":57.70}"
+  },
+  {
+    "timestamp": "2026-02-28T12:01:40.393868",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":57.80}"
+  },
+  {
+    "timestamp": "2026-02-28T12:01:43.421659",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":57.80}"
+  },
+  {
+    "timestamp": "2026-02-28T12:01:46.448115",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":57.70}"
+  },
+  {
+    "timestamp": "2026-02-28T12:01:49.475209",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.30,\"hum\":57.70}"
+  },
+  {
+    "timestamp": "2026-02-28T12:01:52.502878",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.30,\"hum\":57.70}"
+  },
+  {
+    "timestamp": "2026-02-28T12:01:55.533596",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":57.70}"
+  },
+  {
+    "timestamp": "2026-02-28T12:01:58.561108",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.30,\"hum\":57.70}"
+  },
+  {
+    "timestamp": "2026-02-28T12:02:01.588244",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.30,\"hum\":57.70}"
+  },
+  {
+    "timestamp": "2026-02-28T12:02:04.622326",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":57.80}"
+  },
+  {
+    "timestamp": "2026-02-28T12:02:07.649647",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.30,\"hum\":57.90}"
+  },
+  {
+    "timestamp": "2026-02-28T12:02:10.677059",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.30,\"hum\":57.80}"
+  },
+  {
+    "timestamp": "2026-02-28T12:02:13.571932",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.30,\"hum\":57.80}"
+  },
+  {
+    "timestamp": "2026-02-28T12:02:16.589551",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.30,\"hum\":57.80}"
+  },
+  {
+    "timestamp": "2026-02-28T12:02:19.615337",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":57.80}"
+  },
+  {
+    "timestamp": "2026-02-28T12:02:22.641922",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.30,\"hum\":57.70}"
+  },
+  {
+    "timestamp": "2026-02-28T12:02:25.670208",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.30,\"hum\":57.70}"
+  },
+  {
+    "timestamp": "2026-02-28T12:02:28.697419",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.40,\"hum\":57.70}"
+  },
+  {
+    "timestamp": "2026-02-28T12:02:31.725375",
+    "temperature": "{\"device_id\":\"sensor_01\",\"status\":\"ON\",\"temp\":26.30,\"hum\":57.60}"
   }
 ]

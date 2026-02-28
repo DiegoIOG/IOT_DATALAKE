@@ -22,7 +22,7 @@ KY-027 → Indicador visual
 
 ## Video del funcionamiento 
 
-
+https://youtu.be/FRlGeq7yL4w 
 
 
 
